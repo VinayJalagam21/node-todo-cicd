@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "VinayJalagam21/node-app-test-new:latest"
+    image: "vinayjalagam/node-todo-app:tagname"
     ports:
       - "8000:8000"
